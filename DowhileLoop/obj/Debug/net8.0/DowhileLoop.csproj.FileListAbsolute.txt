@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.AssemblyInfo.cs
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\bin\Debug\net8.0\DowhileLoop.exe
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\bin\Debug\net8.0\DowhileLoop.deps.json
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\bin\Debug\net8.0\DowhileLoop.runtimeconfig.json
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\bin\Debug\net8.0\DowhileLoop.dll
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\bin\Debug\net8.0\DowhileLoop.pdb
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.dll
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\refint\DowhileLoop.dll
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.pdb
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\DowhileLoop.genruntimeconfig.cache
+C:\Users\barla\source\repos\DowhileLoop\DowhileLoop\obj\Debug\net8.0\ref\DowhileLoop.dll
